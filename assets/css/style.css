@@ -564,7 +564,7 @@ form label{
 /*FOOTER*/
 
 footer{
-  height: 75px;
+  height: 85px;
   background-color: #cccccc;
   color: #2d2c2b;
   margin: 0 auto;
@@ -572,17 +572,17 @@ footer{
 }
 
 footer h5{
-  margin-top: 29px;
+  margin-top: 35px;
   margin-left: 81px;
   font-family: Lato;
-  font-size: 18px;
+  font-size: 10px;
   text-transform: uppercase;
 }
 
 .social-links-foter{
   display: inline-block;
   float: right;
-  margin-top: 25px;
+  margin-top: 28px;
   margin-right: 81px;
   font-family: Lato;
   font-size: 25px;
@@ -735,11 +735,5 @@ footer a:hover{
     display: none;
   }
 
-
-}
-
-
-/*classes for form*/
-.form-border-red{
 
 }
