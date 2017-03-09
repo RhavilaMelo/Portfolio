@@ -295,7 +295,7 @@ p span{
   width:200%;
   position: relative;
   left: 0%;
-  transition: 0.5s;
+  transition: 1s;
 }
 
 
@@ -388,6 +388,7 @@ p span{
   position: absolute;
   top:0;
   text-align: center;
+  transition-duration:1s ;
 }
 
 strong{
